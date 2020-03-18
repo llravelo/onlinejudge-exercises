@@ -5,7 +5,7 @@ The following problems are sorted in order of difficulty. Prioritize understandi
 Guide Questions:
 - Desribe the type of information the problem deals with.
 - What kind of data structure best fits the problem?
-- Analyse the time (and space complexity) of the data structure (and operations).
+- Analyze the time (and space complexity) of the operations.
 - Given input constraints, will this meet the contest requirements (assume 10^8 operations per second)
 - Is it possible to optimize your solution, using the information given?
 
